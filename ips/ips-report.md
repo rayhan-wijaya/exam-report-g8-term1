@@ -22,3 +22,28 @@
       terbentuknya berbagai macam sumber daya alam mineral.
 
 ## Potensi Sumber Daya Alam Khas Indonesia
+
+## Identifikasi Sumber Daya Alam di Indonesia (Bisa Diperbarui/Tidak)
+
+- Bisa Diperbarui:
+    - Energi Matahari
+    - Angin
+    - Air
+    - Biomassa
+    - Panas Bumi
+    - Ombak dan Arus Laut
+    - Tanaman dan Hutan
+    - Biodiversitas
+    - Lautan
+    - Air Hujan
+
+- Tidak Bisa Diperbarui:
+    - Minyak Bumi
+    - Gas Alam
+    - Batubara
+    - Logam Berharga
+    - Mineral Terbatas
+    - Air Tanah
+    - Batu Bara
+    - Minyak Bumi dan Gas Alam Non-Konvensional
+
