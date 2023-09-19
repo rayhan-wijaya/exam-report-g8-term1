@@ -13,3 +13,8 @@
       11 LS (Lintang Selatan)
       95 BT (Bujur Timur)
       141 BT (Bujur Timur)
+
+- Secara Geologis
+
+    - Berada di Ring of Fire, menyebabkan gunung api aktif sehingga
+      terbentuknya berbagai macam sumber daya alam mineral.
