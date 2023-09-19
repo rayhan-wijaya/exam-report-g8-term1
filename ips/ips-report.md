@@ -20,3 +20,5 @@
 
     - Berada di Ring of Fire, menyebabkan gunung api aktif sehingga
       terbentuknya berbagai macam sumber daya alam mineral.
+
+## Potensi Sumber Daya Alam Khas Indonesia
