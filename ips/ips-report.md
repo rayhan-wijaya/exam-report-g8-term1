@@ -9,6 +9,8 @@
 
 - Secara Astronomis
 
+    - Berada di wilayah tropis, menyebabkan berbagai jenis tumbuhan subur.
+
     - 6 LU (Lintang Utara)
       11 LS (Lintang Selatan)
       95 BT (Bujur Timur)
