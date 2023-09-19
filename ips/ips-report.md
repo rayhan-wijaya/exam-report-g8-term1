@@ -9,7 +9,7 @@
 
 - Secara Astronomis
 
-    - 6o LU (Lintang Utara)
-    - 11o LS (Lintang Selatan)
-    - 95o BT (Bujur Timur)
-    - 141o BT (Bujur Timur)
+    - 6 LU (Lintang Utara)
+    - 11 LS (Lintang Selatan)
+    - 95 BT (Bujur Timur)
+    - 141 BT (Bujur Timur)
