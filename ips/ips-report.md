@@ -10,6 +10,6 @@
 - Secara Astronomis
 
     - 6 LU (Lintang Utara)
-    - 11 LS (Lintang Selatan)
-    - 95 BT (Bujur Timur)
-    - 141 BT (Bujur Timur)
+      11 LS (Lintang Selatan)
+      95 BT (Bujur Timur)
+      141 BT (Bujur Timur)
